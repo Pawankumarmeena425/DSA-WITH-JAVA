@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74c2c0a3-1307-45f2-a85c-fb16f0283d93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../10 Function and Methods in Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10 Function and Methods in Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31 HEAPS OR PRIORITY QUEUE/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../31 HEAPS OR PRIORITY QUEUE/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31 HEAPS OR PRIORITY QUEUE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../31 HEAPS OR PRIORITY QUEUE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33 TRIES/Tries/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../33 TRIES/Tries/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33 TRIES/Tries/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../33 TRIES/Tries/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33 TRIES/Tries/src/ch_33_02_prefix_problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33 TRIES/Tries/src/ch_33_02_prefix_problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33 TRIES/Tries/src/ch_33_word_break.java" beforeDir="false" afterPath="$PROJECT_DIR$/../33 TRIES/Tries/src/ch_33_word_break.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA PROGRAM CODE WITH HARRY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA PROGRAM CODE WITH HARRY/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JAVA PROGRAM CODE WITH HARRY/12 Package/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JAVA PROGRAM CODE WITH HARRY/12 Package/Calculator.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DnptPD63VuvjPaWl5rkOcRZKG8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "D:/4.2 JAVA LANGUAGE COMPLITE GUIDE/DSA WITH JAVA APNA COLLEGE/PROGRAM/20 BASIC MATH FOR DSA"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DiamondPattern">
+    <configuration name="Butterfly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Butterfly" />
+      <module name="11 Pattern Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DiamondPattern" />
+      <module name="11 Pattern Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HalfButterflyWithChar2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.HalfButterflyWithChar2" />
+      <module name="11 Pattern Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HalfButterflyWithCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.HalfButterflyWithCharacter" />
+      <module name="11 Pattern Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromicPatternWithNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.PalindromicPatternWithNumbers" />
+      <module name="11 Pattern Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Butterfly" />
+      <item itemvalue="Application.DiamondPattern" />
+      <item itemvalue="Application.HalfButterflyWithChar2" />
+      <item itemvalue="Application.HalfButterflyWithCharacter" />
+      <item itemvalue="Application.PalindromicPatternWithNumbers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiamondPattern" />
+        <item itemvalue="Application.HalfButterflyWithChar2" />
+        <item itemvalue="Application.HalfButterflyWithCharacter" />
+        <item itemvalue="Application.Butterfly" />
+        <item itemvalue="Application.PalindromicPatternWithNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74c2c0a3-1307-45f2-a85c-fb16f0283d93" name="Default Changelist" comment="" />
+      <created>1661344919666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661344919666</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

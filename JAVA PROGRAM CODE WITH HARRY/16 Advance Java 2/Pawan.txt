@@ -1,0 +1,538 @@
+                Skip to content
+                Courses
+                Tutorials
+                Jobs
+                Practice
+
+                Write
+                Write
+                Come write articles for us and get featured
+                Practice
+                Practice
+                Learn and code with the best industry experts
+                Premium
+                Premium
+                Get access to ad-free content, doubt assistance and more!
+                Jobs
+                Jobs
+                Come and find your dream job with us
+                Geeks Digest
+                Quizzes
+                Geeks Campus
+                Gblog Articles
+                IDE
+                Campus Mantri
+                Sign In
+                Sign In
+                Home
+                Saved Videos
+                Courses
+                For Working Professionals
+                LIVE
+                Self-Paced
+                For Students
+                LIVE
+                Self-Paced
+                School Courses
+                Algorithms
+                Analysis of Algorithms
+                Data Structures
+                Interview Corner
+                Languages
+                ML & Data Science
+                CS Subjects
+                GATE
+                Web Technologies
+                Software Designs
+                School Learning
+                Mathematics
+                Maths Notes (Class 8-12)
+                NCERT Solutions
+                RD Sharma Solutions
+                Physics Notes (Class 8-11)
+                Chemistry Notes
+                CS Exams/PSUs
+                ISRO
+                UGC NET
+                Student
+                Post a Job
+                Curated DSA Lists
+                Tutorials
+                Jobs
+                Practice
+                GBlog
+                Puzzles
+                What's New ?
+                 Change Language
+
+                Data Structures
+                Algorithms
+                Interview Preparation
+                Topic-wise Practice
+                C++
+                Java
+                Python
+                Competitive Programming
+                Machine Learning
+                HTML
+                SDE Sheet
+                Puzzles
+                GFG School
+                Projects
+
+                ▲
+                Related Articles
+                Arrays in Java
+                Split() String method in Java with examples
+                Arrays.sort() in Java with examples
+                For-each loop in Java
+                Reverse a string in Java
+                Object Oriented Programming (OOPs) Concept in Java
+                How to iterate any Map in Java
+                HashMap in Java with Examples
+                Initialize an ArrayList in Java
+                ArrayList in Java
+                Multidimensional Arrays in Java
+                Stack Class in Java
+                Overriding in Java
+                How to add an element to an Array in Java?
+                Interfaces in Java
+                Singleton Class in Java
+                LinkedList in Java
+                Convert a String to Character Array in Java
+                Set in Java
+                Collections.sort() in Java with Examples
+                Queue Interface In Java
+                Classes and Objects in Java
+                Inheritance in Java
+                Collections in Java
+                Initializing a List in Java
+                Multithreading in Java
+                Math pow() method in Java with Example
+                Polymorphism in Java
+                PriorityQueue in Java
+                How to determine length or size of an Array in Java?
+                Arrays in Java
+                Split() String method in Java with examples
+                Arrays.sort() in Java with examples
+                For-each loop in Java
+                Reverse a string in Java
+                Object Oriented Programming (OOPs) Concept in Java
+                How to iterate any Map in Java
+                HashMap in Java with Examples
+                Initialize an ArrayList in Java
+                ArrayList in Java
+                Multidimensional Arrays in Java
+                Stack Class in Java
+                Overriding in Java
+                How to add an element to an Array in Java?
+                Interfaces in Java
+                Singleton Class in Java
+                LinkedList in Java
+                Convert a String to Character Array in Java
+                Set in Java
+                Collections.sort() in Java with Examples
+                Queue Interface In Java
+                Classes and Objects in Java
+                Inheritance in Java
+                Collections in Java
+                Initializing a List in Java
+                Multithreading in Java
+                Math pow() method in Java with Example
+                Polymorphism in Java
+                PriorityQueue in Java
+                How to determine length or size of an Array in Java?
+                File Handling in Java
+
+                Difficulty Level : Medium
+                Last Updated : 03 Jan, 2022
+                In Java, with the help of File Class, we can work with files. This File Class is inside the java.io package. The File class can be used by creating an object of the class and then specifying the name of the file.
+
+                Why File Handling is Required?
+
+                File Handling is an integral part of any programming language as file handling enables us to store the output of any particular program in a file and allows us to perform certain operations on it.
+                In simple words, file handling means reading and writing data to a file.
+                // Importing File Class
+                import java.io.File;
+
+                class GFG {
+                    public static void main(String[] args)
+                    {
+
+                        // File name specified
+                        File obj = new File("myfile.txt");
+                          System.out.println("File Created!");
+                    }
+                }
+                Output
+
+                File Created!
+                In Java, the concept Stream is used in order to perform I/O operations on a file. So at first, let us get acquainted with a concept known as Stream in Java.
+
+                Streams in Java
+                In Java, a sequence of data is known as a stream.
+                This concept is used to perform I/O operations on a file.
+                There are two types of streams :
+                1. Input Stream:
+                The Java InputStream class is the superclass of all input streams. The input stream is used to read data from numerous input devices like the keyboard, network, etc. InputStream is an abstract class, and because of this, it is not useful by itself. However, its subclasses are used to read data.
+
+                There are several subclasses of the InputStream class, which are as follows:
+
+                AudioInputStream
+                ByteArrayInputStream
+                FileInputStream
+                FilterInputStream
+                StringBufferInputStream
+                ObjectInputStream
+                Creating an InputStream
+                // Creating an InputStream
+                InputStream obj = new FileInputStream();
+                Here, an input stream is created using FileInputStream.
+
+                Note: We can create an input stream from other subclasses as well as InputStream.
+
+                Methods of InputStream
+                S No.	Method	Description
+                1	read()	Reads one byte of data from the input stream.
+                2	read(byte[] array)()	Reads byte from the stream and stores that byte in the specified array.
+                3	mark()	It marks the position in the input stream until the data has been read.
+                4	available()	Returns the number of bytes available in the input stream.
+                5	markSupported()	It checks if the mark() method and the reset() method is supported in the stream.
+                6	reset()	Returns the control to the point where the mark was set inside the stream.
+                7	skips()	 Skips and removes a particular number of bytes from the input stream.
+                8	close()	Closes the input stream.
+                2. Output Stream:
+                The output stream is used to write data to numerous output devices like the monitor, file, etc. OutputStream is an abstract superclass that represents an output stream. OutputStream is an abstract class and because of this, it is not useful by itself. However, its subclasses are used to write data.
+
+                There are several subclasses of the OutputStream class which are as follows:
+
+                ByteArrayOutputStream
+                FileOutputStream
+                StringBufferOutputStream
+                ObjectOutputStream
+                DataOutputStream
+                PrintStream
+                Creating an OutputStream
+                // Creating an OutputStream
+                OutputStream obj = new FileOutputStream();
+                Here, an output stream is created using FileOutputStream.
+
+                Note: We can create an output stream from other subclasses as well as OutputStream.
+
+                Methods of OutputStream
+                S. No.	Method	Description
+                1.	write()	Writes the specified byte to the output stream.
+                2.	write(byte[] array)	Writes the bytes which are inside a specific array to the output stream.
+                3.	close()	Closes the output stream.
+                4.	flush()	Forces to write all the data present in an output stream to the destination.
+                Based on the data type, there are two types of streams :
+
+                1. Byte Stream:
+                This stream is used to read or write byte data. The byte stream is again subdivided into two types which are as follows:
+
+                Byte Input Stream: Used to read byte data from different devices.
+                Byte Output Stream: Used to write byte data to different devices.
+                2. Character Stream:
+                This stream is used to read or write character data. Character stream is again subdivided into 2 types which are as follows:
+
+                Character Input Stream: Used to read character data from different devices.
+                Character Output Stream: Used to write character data to different devices.
+                Owing to the fact that you know what a stream is, let’s polish up File Handling in Java by further understanding the various methods that are useful for performing operations on the files like creating, reading, and writing files.
+
+                Java File Class Methods
+                The following table depicts several File Class methods:
+
+                Method Name	Description	Return Type
+                canRead()	 It tests whether the file is readable or not. 	Boolean
+                canWrite()	It tests whether the file is writable or not.	Boolean
+                createNewFile()	It creates an empty file.	Boolean
+                delete()	It deletes a file.	Boolean
+                exists()	It tests whether the file exists or not.	Boolean
+                length()	Returns the size of the file in bytes.	Long
+                getName()	 Returns the name of the file.	String
+                list()	Returns an array of the files in the directory.	String[]
+                mkdir()	 Creates a new directory.	Boolean
+                getAbsolutePath()	Returns the absolute pathname of the file.	String
+                Let us now get acquainted with the various file operations in Java.
+
+                File operations in Java
+                The following are the several operations that can be performed on a file in Java :
+
+                Create a File
+                Read from a File
+                Write to a File
+                Delete a File
+                Now let us study each of the above operations in detail.
+
+                1. Create a File
+
+                In order to create a file in Java, you can use the createNewFile() method.
+                If the file is successfully created, it will return a Boolean value true and false if the file already exists.
+                Following is a demonstration of how to create a file in Java :
+
+                // Import the File class
+                import java.io.File;
+
+                // Import the IOException class to handle errors
+                import java.io.IOException;
+
+                public class GFG {
+                    public static void main(String[] args)
+                    {
+
+                        try {
+                            File Obj = new File("myfile.txt");
+                            if (Obj.createNewFile()) {
+                                System.out.println("File created: "
+                                                   + Obj.getName());
+                            }
+                            else {
+                                System.out.println("File already exists.");
+                            }
+                        }
+                        catch (IOException e) {
+                            System.out.println("An error has occurred.");
+                            e.printStackTrace();
+                        }
+                    }
+                }
+                Output
+
+                An error has occurred.
+                2. Read from a File: We will use the Scanner class in order to read contents from a file. Following is a demonstration of how to read contents from a file in Java :
+
+                // Import the File class
+                import java.io.File;
+
+                // Import this class for handling errors
+                import java.io.FileNotFoundException;
+
+                // Import the Scanner class to read content from text files
+                import java.util.Scanner;
+
+                public class GFG {
+                    public static void main(String[] args)
+                    {
+                        try {
+                            File Obj = new File("myfile.txt");
+                            Scanner Reader = new Scanner(Obj);
+                            while (Reader.hasNextLine()) {
+                                String data = Reader.nextLine();
+                                System.out.println(data);
+                            }
+                            Reader.close();
+                        }
+                        catch (FileNotFoundException e) {
+                            System.out.println("An error has occurred.");
+                            e.printStackTrace();
+                        }
+                    }
+                }
+                Output
+
+                An error has occurred.
+                3. Write to a File: We use the FileWriter class along with its write() method in order to write some text to the file. Following is a demonstration of how to write text to a file in Java :
+
+                // Import the FileWriter class
+                import java.io.FileWriter;
+
+                // Import the IOException class for handling errors
+                import java.io.IOException;
+
+                public class GFG {
+                    public static void main(String[] args)
+                    {
+                        try {
+                            FileWriter Writer
+                                = new FileWriter("myfile.txt");
+                            Writer.write(
+                                "Files in Java are seriously good!!");
+                            Writer.close();
+                            System.out.println("Successfully written.");
+                        }
+                        catch (IOException e) {
+                            System.out.println("An error has occurred.");
+                            e.printStackTrace();
+                        }
+                    }
+                }
+                Output
+
+                An error has occurred.
+                4. Delete a File: We use the delete() method in order to delete a file. Following is a demonstration of how to delete a file in Java :
+
+                // Import the File class
+                import java.io.File;
+
+                public class GFG {
+                    public static void main(String[] args)
+                    {
+                        File Obj = new File("myfile.txt");
+                        if (Obj.delete()) {
+                            System.out.println("The deleted file is : "
+                                               + myObj.getName());
+                        }
+                        else {
+                            System.out.println(
+                                "Failed in deleting the file.");
+                        }
+                    }
+                }
+                Output
+
+                Failed in deleting the file.
+
+
+
+
+                Like
+                41
+                Previous
+                Java Collections emptyList() Method with Examples
+                Next
+                Automatic Type Promotion in Overloading in Java
+                RECOMMENDED ARTICLES
+                Page :
+                1
+                2
+                3
+                File handling in Java using FileWriter and FileReader
+                27, Nov 16
+                File Handling in Java with CRUD operations
+                12, Apr 19
+                Different Ways to Copy Content From One File to Another File in Java
+                23, Oct 20
+                How to Convert a Kotlin Source File to a Java Source File in Android?
+                17, Nov 21
+                Java Program to Read Content From One File and Write it into Another File
+                27, Jan 21
+                Comparison of Exception Handling in C++ and Java
+                10, Dec 10
+                Output of Java program | Set 12(Exception Handling)
+                22, May 17
+                Nested try blocks in Exception Handling in Java
+                21, Oct 18
+                Exception Handling with Method Overriding in Java
+                10, Dec 18
+                Version Enhancements in Exception Handling introduced in Java SE 7
+                03, Apr 20
+                Java - Exception Handling With Constructors in Inheritance
+                05, Sep 21
+                Event Handling in Java
+                14, Nov 21
+                Exception handling in JSP
+                09, Jul 18
+                Servlet - Exception Handling
+                15, Feb 22
+                Spring - MVC Form Handling
+                15, Feb 22
+                Spring MVC - Exception Handling
+                07, Mar 22
+                Spring Boot - Exception Handling
+                04, Mar 22
+                Java.io.File Class in Java
+                12, Dec 16
+                Java Program to Extract Content from a Java's .class File
+                01, Nov 20
+                java.nio.file.attribute.FileTime Class in Java
+                07, Mar 21
+                java.nio.file.Paths Class in Java
+                09, Mar 21
+                java.nio.file.spi.FileTypeDetector Class in Java
+                21, Mar 21
+                java.nio.file.FileStore Class in Java
+                09, Apr 21
+                java.nio.file.FileSystem class in java
+                13, Apr 21
+                Article Contributed By :
+                https://media.geeksforgeeks.org/auth/avatar.png
+                shreyasnaphad
+                @shreyasnaphad
+                Vote for difficulty
+                Current difficulty : Medium
+                Easy
+                Normal
+                Medium
+                Hard
+                Expert
+                Article Tags :
+                java-file-handling
+                Picked
+                Java
+                Practice Tags :
+                Java
+                Improve Article
+                Report Issue
+                Writing code in comment? Please use ide.geeksforgeeks.org, generate link and share the link here.
+
+
+                Load Comments
+
+
+                WHAT'S NEW
+
+                JAVA Programming Foundation- Self Paced Course
+                View Details
+
+                Geek-O-Lympics 2022
+                View Details
+
+                Complete Interview Preparation- Self Paced Course
+                View Details
+
+
+
+                A-143, 9th Floor, Sovereign Corporate Tower,
+                Sector-136, Noida, Uttar Pradesh - 201305
+                feedback@geeksforgeeks.org
+                Company
+                About Us
+                Careers
+                In Media
+                Contact Us
+                Privacy Policy
+                Copyright Policy
+                Learn
+                Algorithms
+                Data Structures
+                SDE Cheat Sheet
+                Machine learning
+                CS Subjects
+                Video Tutorials
+                Courses
+                News
+                Top News
+                Technology
+                Work & Career
+                Business
+                Finance
+                Lifestyle
+                Knowledge
+                Languages
+                Python
+                Java
+                CPP
+                Golang
+                C#
+                SQL
+                Kotlin
+                Web Development
+                Web Tutorials
+                Django Tutorial
+                HTML
+                JavaScript
+                Bootstrap
+                ReactJS
+                NodeJS
+                Contribute
+                Write an Article
+                Improve an Article
+                Pick Topics to Write
+                Write Interview Experience
+                Internships
+                Video Internship
+                @geeksforgeeks , Some rights reserved
+                Lightbox
+                Start Your Coding Journey Now!
+                Login
+                Register
