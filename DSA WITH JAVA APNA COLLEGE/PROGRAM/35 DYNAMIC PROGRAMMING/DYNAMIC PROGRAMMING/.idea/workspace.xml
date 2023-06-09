@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ch_35_01_Climbing_Stairs">
+  <component name="RunManager" selected="Application.ch_35_02_knapsack">
     <configuration name="ch_35_00_DP_Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch_35_00_DP_Basic" />
       <module name="DYNAMIC PROGRAMMING" />
@@ -50,8 +50,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch_35_02_knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_02_knapsack" />
+      <module name="DYNAMIC PROGRAMMING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch_35_02_knapsack" />
         <item itemvalue="Application.ch_35_01_Climbing_Stairs" />
         <item itemvalue="Application.ch_35_00_DP_Basic" />
       </list>
