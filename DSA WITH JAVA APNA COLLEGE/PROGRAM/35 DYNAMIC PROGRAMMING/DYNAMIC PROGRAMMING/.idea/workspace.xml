@@ -35,21 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch_35_03_target_sum_Subset">
-    <configuration name="ch_35_00_DP_Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_35_00_DP_Basic" />
-      <module name="DYNAMIC PROGRAMMING" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch_35_01_Climbing_Stairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_35_01_Climbing_Stairs" />
-      <module name="DYNAMIC PROGRAMMING" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ch_37_06_rod_cutting">
     <configuration name="ch_35_02_knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch_35_02_knapsack" />
       <module name="DYNAMIC PROGRAMMING" />
@@ -64,12 +50,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch_35_04_unbounded_knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_04_unbounded_knapsack" />
+      <module name="DYNAMIC PROGRAMMING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch_36_05_coin_change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_36_05_coin_change" />
+      <module name="DYNAMIC PROGRAMMING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch_37_06_rod_cutting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_37_06_rod_cutting" />
+      <module name="DYNAMIC PROGRAMMING" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch_37_06_rod_cutting" />
+        <item itemvalue="Application.ch_36_05_coin_change" />
+        <item itemvalue="Application.ch_35_04_unbounded_knapsack" />
         <item itemvalue="Application.ch_35_03_target_sum_Subset" />
         <item itemvalue="Application.ch_35_02_knapsack" />
-        <item itemvalue="Application.ch_35_01_Climbing_Stairs" />
-        <item itemvalue="Application.ch_35_00_DP_Basic" />
       </list>
     </recent_temporary>
   </component>
