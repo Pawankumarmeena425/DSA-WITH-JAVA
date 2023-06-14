@@ -35,23 +35,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch_37_06_rod_cutting">
-    <configuration name="ch_35_02_knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_35_02_knapsack" />
+  <component name="RunManager" selected="Application.ch_35_09_longest_Increasing_subsequence">
+    <configuration name="ch_35_07_lcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_07_lcs" />
       <module name="DYNAMIC PROGRAMMING" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch_35_03_target_sum_Subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_35_03_target_sum_Subset" />
+    <configuration name="ch_35_08_longest_common_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_08_longest_common_substring" />
       <module name="DYNAMIC PROGRAMMING" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch_35_04_unbounded_knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_35_04_unbounded_knapsack" />
+    <configuration name="ch_35_09_longest_Increasing_subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_09_longest_Increasing_subsequence" />
       <module name="DYNAMIC PROGRAMMING" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch_35_09_longest_Increasing_subsequence" />
+        <item itemvalue="Application.ch_35_08_longest_common_substring" />
+        <item itemvalue="Application.ch_35_07_lcs" />
         <item itemvalue="Application.ch_37_06_rod_cutting" />
         <item itemvalue="Application.ch_36_05_coin_change" />
-        <item itemvalue="Application.ch_35_04_unbounded_knapsack" />
-        <item itemvalue="Application.ch_35_03_target_sum_Subset" />
-        <item itemvalue="Application.ch_35_02_knapsack" />
       </list>
     </recent_temporary>
   </component>
