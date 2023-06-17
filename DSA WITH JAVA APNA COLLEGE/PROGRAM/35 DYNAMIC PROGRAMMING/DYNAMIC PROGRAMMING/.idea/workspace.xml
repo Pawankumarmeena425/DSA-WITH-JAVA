@@ -35,37 +35,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch_35_09_longest_Increasing_subsequence">
-    <configuration name="ch_35_07_lcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_35_07_lcs" />
+  <component name="RunManager" selected="Application.ch_35_16_MCM">
+    <configuration name="ch_35_12_wildcard_Matching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_12_wildcard_Matching" />
       <module name="DYNAMIC PROGRAMMING" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch_35_08_longest_common_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_35_08_longest_common_substring" />
+    <configuration name="ch_35_13_catalan_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_13_catalan_Number" />
       <module name="DYNAMIC PROGRAMMING" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch_35_09_longest_Increasing_subsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_35_09_longest_Increasing_subsequence" />
+    <configuration name="ch_35_14_count_BSTs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_14_count_BSTs" />
       <module name="DYNAMIC PROGRAMMING" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch_36_05_coin_change" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_36_05_coin_change" />
+    <configuration name="ch_35_15_mountain_ranges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_15_mountain_ranges" />
       <module name="DYNAMIC PROGRAMMING" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch_37_06_rod_cutting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_37_06_rod_cutting" />
+    <configuration name="ch_35_16_MCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_35_16_MCM" />
       <module name="DYNAMIC PROGRAMMING" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch_35_09_longest_Increasing_subsequence" />
-        <item itemvalue="Application.ch_35_08_longest_common_substring" />
-        <item itemvalue="Application.ch_35_07_lcs" />
-        <item itemvalue="Application.ch_37_06_rod_cutting" />
-        <item itemvalue="Application.ch_36_05_coin_change" />
+        <item itemvalue="Application.ch_35_16_MCM" />
+        <item itemvalue="Application.ch_35_15_mountain_ranges" />
+        <item itemvalue="Application.ch_35_14_count_BSTs" />
+        <item itemvalue="Application.ch_35_13_catalan_Number" />
+        <item itemvalue="Application.ch_35_12_wildcard_Matching" />
       </list>
     </recent_temporary>
   </component>

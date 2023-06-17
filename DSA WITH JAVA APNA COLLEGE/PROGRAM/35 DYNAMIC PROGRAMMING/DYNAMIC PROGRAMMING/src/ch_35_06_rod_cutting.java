@@ -1,4 +1,4 @@
-public class ch_37_06_rod_cutting {
+public class ch_35_06_rod_cutting {
 
 //    weight = length , value = price , W = totRod
     public static int rodCutting(int length[] , int price[] , int totRod){

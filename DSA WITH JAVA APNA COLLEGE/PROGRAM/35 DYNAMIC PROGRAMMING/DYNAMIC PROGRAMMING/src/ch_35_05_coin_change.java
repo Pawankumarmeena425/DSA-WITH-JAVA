@@ -1,4 +1,4 @@
-public class ch_36_05_coin_change {
+public class ch_35_05_coin_change {
     public static int coinChanges(int coin[] , int sum){
         int n = coin.length;
         int dp[][] = new int[n+1][sum+1];
