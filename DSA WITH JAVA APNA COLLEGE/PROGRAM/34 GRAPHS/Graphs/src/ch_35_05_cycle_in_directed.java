@@ -53,7 +53,7 @@ public class ch_35_05_cycle_in_directed {
                 return true;
             }
         }
-        stack[curr]  =false;
+        stack[curr]  = false;
         return false;
     }
     public static void main(String[] args) {

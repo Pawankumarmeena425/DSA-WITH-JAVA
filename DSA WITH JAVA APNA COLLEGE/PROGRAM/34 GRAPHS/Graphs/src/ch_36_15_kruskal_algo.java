@@ -1,8 +1,7 @@
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 
-public class ch_37_15_kruskal_algo {
+public class ch_36_15_kruskal_algo {
     static class Edge implements Comparable<Edge>{
         int src;
         int dec;

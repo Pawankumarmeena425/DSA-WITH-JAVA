@@ -66,7 +66,7 @@ public class ch_34_01_BFS_DFS_and_hasPath {
 
         for(int i=0;i<graph[curr].size();i++){//call for neighbours
             Edge e = graph[curr].get(i);
-            if(!vis[e.dec]){
+            if(!vis[e.dec]){ // here handle visited node case
                 dfs(graph,e.dec,vis);
             }
 
@@ -80,7 +80,7 @@ public class ch_34_01_BFS_DFS_and_hasPath {
         for(int i=0;i<graph[src].size();i++){
             Edge e = graph[src].get(i);
 //            if(!vis[e.dec]){
-//                hasPath(graph,e.dec,dec,vis){
+//               if (hasPath(graph,e.dec,dec,vis)){
 //                    return true;
 //                }
 //            }

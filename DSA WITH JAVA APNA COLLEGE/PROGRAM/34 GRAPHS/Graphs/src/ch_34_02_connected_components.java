@@ -16,7 +16,10 @@ public class ch_34_02_connected_components {
     public static void dfs(ArrayList<Edge> [] graph){
         boolean vis[]  =new boolean[graph.length];
         for (int i=0;i<graph.length;i++){
-            dfsUtil(graph,i,vis);
+            if(!vis[i]){
+                dfsUtil(graph,i,vis);
+            }
+
         }
     }
     public static void dfsUtil(ArrayList<Edge>[] graph , int curr , boolean vis[]){
