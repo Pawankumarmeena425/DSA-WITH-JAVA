@@ -5,7 +5,7 @@ public class Ch_14_03_QuestionPickElement {
         int start  = 0;
         int  end = arr.length-1;
         int max;
-while(start<=end){
+        while(start<=end){
     int mid  = start+(end-start)/2;
     if (arr[mid-1]<arr[mid]&&arr[mid]>arr[mid+1]){
         max  =arr[mid];
