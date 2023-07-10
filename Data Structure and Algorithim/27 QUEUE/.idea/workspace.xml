@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb1133d8-1356-48c1-80f0-8d7c19cb58a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_01_SwapAlternetive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_03_UniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_07_IntersectionOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_08_ReverseOfArrayAtSpecificIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_09_MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_10_MoveZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_11_RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_12_CheckArrayIsSortedOrRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12 Arrays/src/com/company/Question_13_SumOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../13 Basic Sorting Algorithim/src/com/company/Ch_13_02_Insertion_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 Binary Search/14 Binary Search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 Binary Search/src/com/company/Ch_14_03_QuestionPickElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../14 Binary Search/src/com/company/Ch_14_05_Question_PivotElement_In_rotedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15 2-D ARRAYS/src/com/company/Ch_15_00_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15 2-D ARRAYS/src/com/company/Ch_15_01_SpiralMetrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15 2-D ARRAYS/src/com/company/Ch_15_02_SumOfDiagonalElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15 2-D ARRAYS/src/com/company/Ch_15_03_SearchingInSorted2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../15 2-D ARRAYS/src/com/company/Ch_15_04_WavePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_15_00_StringBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_15_06_StringComprassion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_16_01_PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_16_02_ShortestDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_16_03_LargestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_16_04_StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_16_05_ConvertStringToUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_16_06_AnagramOrNOt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/Ch_16_06_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/LeetcodeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../16 STRINGS/src/com/company/ch_15_00_StringConstructore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/17 BIT MANIPULATION.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_00_PracticeQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_01_EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_02_Get_ith_bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_03_BitOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_04_2toPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_05_CountSetBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_06_FastExpontention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_07_PracticeQustion01_Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_08_SweapTwoNumber02_Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_09_AddoneInInteger03_Alpha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_10_XOR_Problem_UniqueElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17 BIT MANIPULATION/src/com/company/ch17_11_SubsetOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18 OBJECT ORIENTIED PROGRAMMING/18 OBJECT ORIENTIED PROGRAMMING.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18 OBJECT ORIENTIED PROGRAMMING/src/com/company/Ch_18_00_ConstructoreBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/19 RECURSION.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_01_printnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_02_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_04_ArraySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_05_FirstOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_06_LastOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_07_XtoPowerN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_08_XtoPowerN_Optimised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_09_TillingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_10_RemoveDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_11_FriendsPairingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_12_SayDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_13_BinaraySearchInRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_14_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_15_PeackElementsINMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_16_PivotElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_17_SortingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_17_SortingUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19 RECURSION/src/com/company/ch19_PracticeQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/20 Divide and Conqure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/src/ch20_01_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/src/com/company/ch20_00_Leetcode_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/src/com/company/ch20_02_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/src/com/company/ch20_03_SearchIn_RoatedandSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/src/com/company/ch20_04_SortStringArrayUsingMergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/src/com/company/ch20_05_MajorityElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/src/com/company/ch20_07_LengthOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20 Divide and Conqure/src/com/company/ch20_occurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_00_PracticeQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_01_Backtracking_InArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_02_Subset_In_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_03_SubsetInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_04_permutation_In_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_05_N_Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_05_N_Queen_Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_05_N_Queen_Print_only_1_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_06_GreedsWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22 BACKTRACKING/src/com/company/ch22_07_Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23 ARRAYLIST/src/com/company/ch23_00_ArrayList_Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23 ARRAYLIST/src/com/company/ch23_00_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23 ARRAYLIST/src/com/company/ch23_01_2d_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23 ARRAYLIST/src/com/company/ch23_02_MaximumWaterInContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23 ARRAYLIST/src/com/company/ch23_03_PairSum_SortedandRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23 ARRAYLIST/src/com/company/ch23_03_PairsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24 LINKED LIST/src/com/company/LinkedListBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24 LINKED LIST/src/com/company/ch24_00_PracticeQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24 LINKED LIST/src/com/company/ch24_01_PalindromeLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24 LINKED LIST/src/com/company/ch24_02_mergeSortLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24 LINKED LIST/src/com/company/ch24_03_zigzig_ll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/LeetcodePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_01_QueueUsingTwoStacks2ndWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_01_QueueUsingtwoStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_02_StackUsingTwoQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_02_StackUsingTwoQueuePop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_03_InterlevelTwoQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_04_QueueReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_05_StackUsingDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_06_QueueUsingDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_CirculareQueueUsingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_QueueUsingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ch27_QueueUsingLL.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IqIgRXZEKjHQaZjmP80cTLm42t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.LeetcodePractice">
+    <configuration name="LeetcodePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LeetcodePractice" />
+      <module name="27 QUEUE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch27_03_InterlevelTwoQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch27_03_InterlevelTwoQueue" />
+      <module name="27 QUEUE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch27_04_QueueReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch27_04_QueueReversal" />
+      <module name="27 QUEUE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch27_05_StackUsingDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch27_05_StackUsingDeque" />
+      <module name="27 QUEUE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch27_06_QueueUsingDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch27_06_QueueUsingDeque" />
+      <module name="27 QUEUE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ch27_03_InterlevelTwoQueue" />
+      <item itemvalue="Application.ch27_04_QueueReversal" />
+      <item itemvalue="Application.ch27_05_StackUsingDeque" />
+      <item itemvalue="Application.ch27_06_QueueUsingDeque" />
+      <item itemvalue="Application.LeetcodePractice" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetcodePractice" />
+        <item itemvalue="Application.ch27_06_QueueUsingDeque" />
+        <item itemvalue="Application.ch27_05_StackUsingDeque" />
+        <item itemvalue="Application.ch27_04_QueueReversal" />
+        <item itemvalue="Application.ch27_03_InterlevelTwoQueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb1133d8-1356-48c1-80f0-8d7c19cb58a8" name="Default Changelist" comment="" />
+      <created>1670902800523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670902800523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ch27_QueueUsingArrays.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ch27_03_InterlevelTwoQueue.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ch27_04_QueueReversal.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LeetcodePractice.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/ch27_CirculareQueueUsingArrays.java</url>
+          <line>8</line>
+          <properties class="com.company.ch27_CirculareQueueUsingArrays.CircularQueue" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

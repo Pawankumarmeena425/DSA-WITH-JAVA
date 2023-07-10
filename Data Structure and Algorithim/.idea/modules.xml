@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08 Loops/08 Loops.iml" filepath="$PROJECT_DIR$/08 Loops/08 Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 Function and Methods in Java/10 Function and Methods in Java.iml" filepath="$PROJECT_DIR$/10 Function and Methods in Java/10 Function and Methods in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 Pattern Question/11 Pattern Question.iml" filepath="$PROJECT_DIR$/11 Pattern Question/11 Pattern Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12 Arrays/12 Arrays.iml" filepath="$PROJECT_DIR$/12 Arrays/12 Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13 Basic Sorting Algorithim/13 Basic Sorting Algorithim.iml" filepath="$PROJECT_DIR$/13 Basic Sorting Algorithim/13 Basic Sorting Algorithim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14 Binary Search/14 Binary Search.iml" filepath="$PROJECT_DIR$/14 Binary Search/14 Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15 2-D ARRAYS/15 2-D ARRAYS.iml" filepath="$PROJECT_DIR$/15 2-D ARRAYS/15 2-D ARRAYS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16 STRINGS/16 STRINGS.iml" filepath="$PROJECT_DIR$/16 STRINGS/16 STRINGS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17 BIT MANIPULATION/17 BIT MANIPULATION.iml" filepath="$PROJECT_DIR$/17 BIT MANIPULATION/17 BIT MANIPULATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18 OBJECT ORIENTIED PROGRAMMING/18 OBJECT ORIENTIED PROGRAMMING.iml" filepath="$PROJECT_DIR$/18 OBJECT ORIENTIED PROGRAMMING/18 OBJECT ORIENTIED PROGRAMMING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19 RECURSION/19 RECURSION.iml" filepath="$PROJECT_DIR$/19 RECURSION/19 RECURSION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20 Divide and Conqure/20 Divide and Conqure.iml" filepath="$PROJECT_DIR$/20 Divide and Conqure/20 Divide and Conqure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21 BASIC MATH FOR DSA/21 BASIC MATH FOR DSA.iml" filepath="$PROJECT_DIR$/21 BASIC MATH FOR DSA/21 BASIC MATH FOR DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22 BACKTRACKING/22 BACKTRACKING.iml" filepath="$PROJECT_DIR$/22 BACKTRACKING/22 BACKTRACKING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23 ARRAYLIST/23 ARRAYLIST.iml" filepath="$PROJECT_DIR$/23 ARRAYLIST/23 ARRAYLIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24 LINKED LIST/24 LINKED LIST.iml" filepath="$PROJECT_DIR$/24 LINKED LIST/24 LINKED LIST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27 QUEUE/27 QUEUE.iml" filepath="$PROJECT_DIR$/27 QUEUE/27 QUEUE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28 GREEDY ALGORITHIM/28 GREEDY ALGORITHIM.iml" filepath="$PROJECT_DIR$/28 GREEDY ALGORITHIM/28 GREEDY ALGORITHIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29 BINARY TREE/29 BINARY TREE.iml" filepath="$PROJECT_DIR$/29 BINARY TREE/29 BINARY TREE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30 BINARY SEARCH TREE/30 BINARY SEARCH TREE.iml" filepath="$PROJECT_DIR$/30 BINARY SEARCH TREE/30 BINARY SEARCH TREE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32  HASHING/32  HASHING.iml" filepath="$PROJECT_DIR$/32  HASHING/32  HASHING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33 TRIES/33 TRIES.iml" filepath="$PROJECT_DIR$/33 TRIES/33 TRIES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34 GRAPHS/34 GRAPHS.iml" filepath="$PROJECT_DIR$/34 GRAPHS/34 GRAPHS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PROGRAM.iml" filepath="$PROJECT_DIR$/PROGRAM.iml" />
+    </modules>
+  </component>
+</project>
