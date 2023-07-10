@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24054267-4d85-4406-bc91-abbff96b8b35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/14 Binary Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/14 Binary Search/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/14 Binary Search/out/production/14 Binary Search/com/company/leetcode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/14 Binary Search/out/production/14 Binary Search/com/company/leetcode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/14 Binary Search/src/com/company/leetcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/14 Binary Search/src/com/company/leetcode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/26 STACKS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/26 STACKS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/26 STACKS/src/com/company/ch26_02_StackUsingLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/26 STACKS/src/com/company/ch26_02_StackUsingLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/26 STACKS/src/com/company/ch26_03_2_PushAtBottam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/26 STACKS/src/com/company/ch26_03_2_PushAtBottam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/26 STACKS/src/com/company/ch26_04_ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSA WITH JAVA APNA COLLEGE ALPHA/PROGRAM/26 STACKS/src/com/company/ch26_04_ReverseString.java" afterDir="false" />
-    </list>
+    <list default="true" id="24054267-4d85-4406-bc91-abbff96b8b35" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +91,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/4.2 JAVA LANGUAGE COMPLITE GUIDE/Data Structure and Algorithim/26 STACKS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch26_02_TwoStack_Implement_In_Single_Array">
+  <component name="RunManager" selected="Application.ch_26_02_N_Stack_Implements">
     <configuration name="ch26_02_TwoStack_Implement_In_Single_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ch26_02_TwoStack_Implement_In_Single_Array" />
       <module name="CH 26 STACKS" />
@@ -139,13 +131,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch26_08_ValidPanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch26_08_ValidPanthesis" />
-      <module name="CH 26 STACKS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ch26_10_Maximal_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ch26_10_Maximal_Rectangle" />
       <module name="CH 26 STACKS" />
@@ -159,20 +144,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch_26_02_N_Stack_Implements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch_26_02_N_Stack_Implements" />
+      <module name="CH 26 STACKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.ch_26_02_N_Stack_Implements" />
       <item itemvalue="Application.ch26_02_TwoStack_Implement_In_Single_Array" />
       <item itemvalue="Application.ch26_10_Maximal_Rectangle" />
       <item itemvalue="Application.ch26_05_Redudent_Brackets" />
       <item itemvalue="Application.ch26_05_sort_Stack" />
-      <item itemvalue="Application.ch26_08_ValidPanthesis" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch_26_02_N_Stack_Implements" />
         <item itemvalue="Application.ch26_02_TwoStack_Implement_In_Single_Array" />
         <item itemvalue="Application.ch26_10_Maximal_Rectangle" />
         <item itemvalue="Application.ch26_05_Redudent_Brackets" />
         <item itemvalue="Application.ch26_05_sort_Stack" />
-        <item itemvalue="Application.ch26_08_ValidPanthesis" />
       </list>
     </recent_temporary>
   </component>
