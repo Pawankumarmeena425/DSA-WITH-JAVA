@@ -32,5 +32,6 @@ public class ch27_05_StackUsingDeque {
             System.out.println(sd.peek());
             sd.pop();
         }
+
     }
 }

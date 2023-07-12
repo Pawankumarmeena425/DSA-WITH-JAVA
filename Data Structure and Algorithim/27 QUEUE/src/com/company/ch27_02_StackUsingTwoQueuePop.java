@@ -18,7 +18,7 @@ public class ch27_02_StackUsingTwoQueuePop {
         while(!q1.isEmpty()){
             q2.add(q1.remove());
         }
-int val = -1;
+            int val = -1;
 //        again transfer all data q2 to q1 but last value of q2 is store in the val
         while(!q2.isEmpty()){
            val = q2.remove();

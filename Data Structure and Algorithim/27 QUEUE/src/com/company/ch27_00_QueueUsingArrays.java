@@ -1,6 +1,6 @@
 package com.company;
 
-public class ch27_QueueUsingArrays {
+public class ch27_00_QueueUsingArrays {
 static class Queue{
     public static int arr[];
     public static int size;

@@ -1,6 +1,6 @@
 package com.company;
 
-public class ch27_CirculareQueueUsingArrays {
+public class ch27_08_CirculareQueueUsingArrays {
     static class CircularQueue{
         public static int arr[];
         public static int front;
@@ -8,9 +8,9 @@ public class ch27_CirculareQueueUsingArrays {
         public static int size;
         CircularQueue(int n){
             arr = new int[n];
-this.size = n;
-this.front = -1;
-this.rear = -1;
+            this.size = n;
+            this.front = -1;
+            this.rear = -1;
         }
 
         public static boolean isEmpty(){
@@ -47,7 +47,7 @@ this.rear = -1;
             else{
                 front = (front+1)%size;
             }
-return val;
+            return val;
 
         }
         public static int peek(){
@@ -60,10 +60,10 @@ return val;
 
     }
     public static void main(String[] args) {
-CircularQueue cq = new CircularQueue(3);
-cq.add(1);
-cq.add(2);
-cq.add(3);
+        CircularQueue cq = new CircularQueue(3);
+        cq.add(1);
+        cq.add(2);
+        cq.add(3);
         System.out.println(cq.remove());
         cq.add(4);
         System.out.println(cq.remove());

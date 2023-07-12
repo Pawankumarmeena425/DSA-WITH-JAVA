@@ -84,14 +84,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/4.2 JAVA LANGUAGE COMPLITE GUIDE/Data Structure and Algorithim/26 STACKS&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/4.2 JAVA LANGUAGE COMPLITE GUIDE/Data Structure and Algorithim/27 QUEUE"
   }
-}</component>
-  <component name="RunManager" selected="Application.ch_26_02_N_Stack_Implements">
+}]]></component>
+  <component name="RunManager" selected="Application.ch26_13_InfixToPostfix">
     <configuration name="ch26_02_TwoStack_Implement_In_Single_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ch26_02_TwoStack_Implement_In_Single_Array" />
       <module name="CH 26 STACKS" />
@@ -118,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch26_05_sort_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ch26_05_sort_Stack" />
+    <configuration name="ch26_10_Maximal_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch26_10_Maximal_Rectangle" />
       <module name="CH 26 STACKS" />
       <extension name="coverage">
         <pattern>
@@ -131,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch26_10_Maximal_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ch26_10_Maximal_Rectangle" />
+    <configuration name="ch26_13_InfixToPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch26_13_InfixToPostfix" />
       <module name="CH 26 STACKS" />
       <extension name="coverage">
         <pattern>
@@ -158,19 +158,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ch26_13_InfixToPostfix" />
       <item itemvalue="Application.ch_26_02_N_Stack_Implements" />
       <item itemvalue="Application.ch26_02_TwoStack_Implement_In_Single_Array" />
       <item itemvalue="Application.ch26_10_Maximal_Rectangle" />
       <item itemvalue="Application.ch26_05_Redudent_Brackets" />
-      <item itemvalue="Application.ch26_05_sort_Stack" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch26_13_InfixToPostfix" />
         <item itemvalue="Application.ch_26_02_N_Stack_Implements" />
         <item itemvalue="Application.ch26_02_TwoStack_Implement_In_Single_Array" />
         <item itemvalue="Application.ch26_10_Maximal_Rectangle" />
         <item itemvalue="Application.ch26_05_Redudent_Brackets" />
-        <item itemvalue="Application.ch26_05_sort_Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +213,11 @@
           <url>file://$PROJECT_DIR$/src/com/company/ch26_08_ValidPanthesis.java</url>
           <line>37</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ch26_13_InfixToPostfix.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
