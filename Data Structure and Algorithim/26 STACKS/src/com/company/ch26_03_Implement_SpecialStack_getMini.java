@@ -5,7 +5,7 @@ public class ch26_03_Implement_SpecialStack_getMini {
         // Define the data members.
 
 
-        /*----------------- Public Functions of SpecialStack -----------------*/
+        /*----------------- Public Functions of SpecialStack Implement the getMIni element in the O(1) time complexity -----------------*/
         Stack<Integer>s = new Stack<>();
         int mini = Integer.MAX_VALUE;
 

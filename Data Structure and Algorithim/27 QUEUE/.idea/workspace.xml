@@ -84,55 +84,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/4.2 JAVA LANGUAGE COMPLITE GUIDE/Data Structure and Algorithim/27 QUEUE&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/4.2 JAVA LANGUAGE COMPLITE GUIDE/Data Structure and Algorithim/26 STACKS"
   }
-}</component>
-  <component name="RunManager" selected="Application.ch27_03_InterlevelTwoQueue">
+}]]></component>
+  <component name="RunManager" selected="Application.ch27_11_max_min_In_Subarray_or_Window_Size_K">
+    <configuration name="LeetcodePractice (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LeetcodePractice" />
+      <module name="27 QUEUE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetcodePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LeetcodePractice" />
+      <module name="27 QUEUE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ch27_03_InterlevelTwoQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ch27_03_InterlevelTwoQueue" />
-      <module name="27 QUEUE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch27_04_QueueReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ch27_04_QueueReversal" />
-      <module name="27 QUEUE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch27_09_Fist_negtive_elemnt_in_Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ch27_09_Fist_negtive_elemnt_in_Window" />
-      <module name="27 QUEUE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch27_09_Reverse_First_K_Element_In_Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ch27_09_Reverse_First_K_Element_In_Stack" />
       <module name="27 QUEUE" />
       <extension name="coverage">
         <pattern>
@@ -157,20 +144,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch27_11_max_min_In_Subarray_or_Window_Size_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch27_11_max_min_In_Subarray_or_Window_Size_K" />
+      <module name="27 QUEUE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ch27_09_Fist_negtive_elemnt_in_Window" />
-      <item itemvalue="Application.ch27_09_Reverse_First_K_Element_In_Stack" />
+      <item itemvalue="Application.ch27_11_max_min_In_Subarray_or_Window_Size_K" />
+      <item itemvalue="Application.LeetcodePractice" />
+      <item itemvalue="Application.LeetcodePractice (1)" />
       <item itemvalue="Application.ch27_10_Circuler_Tour" />
       <item itemvalue="Application.ch27_03_InterlevelTwoQueue" />
-      <item itemvalue="Application.ch27_04_QueueReversal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch27_11_max_min_In_Subarray_or_Window_Size_K" />
+        <item itemvalue="Application.LeetcodePractice (1)" />
+        <item itemvalue="Application.LeetcodePractice" />
         <item itemvalue="Application.ch27_03_InterlevelTwoQueue" />
         <item itemvalue="Application.ch27_10_Circuler_Tour" />
-        <item itemvalue="Application.ch27_09_Reverse_First_K_Element_In_Stack" />
-        <item itemvalue="Application.ch27_09_Fist_negtive_elemnt_in_Window" />
-        <item itemvalue="Application.ch27_04_QueueReversal" />
       </list>
     </recent_temporary>
   </component>
@@ -211,13 +211,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/LeetcodePractice.java</url>
-          <line>11</line>
+          <line>107</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/ch27_09_Fist_negtive_elemnt_in_Window.java</url>
           <line>6</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/LeetcodePractice.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/ch27_11_max_min_In_Subarray_or_Window_Size_K.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/company/ch27_08_CirculareQueueUsingArrays.java</url>

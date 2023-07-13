@@ -84,29 +84,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/4.2 JAVA LANGUAGE COMPLITE GUIDE/Data Structure and Algorithim/27 QUEUE"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/4.2 JAVA LANGUAGE COMPLITE GUIDE/Data Structure and Algorithim/27 QUEUE&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ch26_13_InfixToPostfix">
+}</component>
+  <component name="RunManager" selected="Application.ch26_Implement_MinStack">
     <configuration name="ch26_02_TwoStack_Implement_In_Single_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ch26_02_TwoStack_Implement_In_Single_Array" />
-      <module name="CH 26 STACKS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch26_05_Redudent_Brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ch26_05_Redudent_Brackets" />
       <module name="CH 26 STACKS" />
       <extension name="coverage">
         <pattern>
@@ -144,6 +131,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch26_Implement_MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ch26_Implement_MinStack" />
+      <module name="CH 26 STACKS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ch_26_02_N_Stack_Implements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ch_26_02_N_Stack_Implements" />
       <module name="CH 26 STACKS" />
@@ -158,19 +158,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ch26_Implement_MinStack" />
       <item itemvalue="Application.ch26_13_InfixToPostfix" />
       <item itemvalue="Application.ch_26_02_N_Stack_Implements" />
       <item itemvalue="Application.ch26_02_TwoStack_Implement_In_Single_Array" />
       <item itemvalue="Application.ch26_10_Maximal_Rectangle" />
-      <item itemvalue="Application.ch26_05_Redudent_Brackets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch26_Implement_MinStack" />
         <item itemvalue="Application.ch26_13_InfixToPostfix" />
         <item itemvalue="Application.ch_26_02_N_Stack_Implements" />
         <item itemvalue="Application.ch26_02_TwoStack_Implement_In_Single_Array" />
         <item itemvalue="Application.ch26_10_Maximal_Rectangle" />
-        <item itemvalue="Application.ch26_05_Redudent_Brackets" />
       </list>
     </recent_temporary>
   </component>
